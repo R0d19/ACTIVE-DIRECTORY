@@ -1,3 +1,6 @@
+ ![Image Alt][
+](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/0991c765ddbd200d8f4fcd5596fd9a05318e6f1c/win%20server.jpg)
+
 # ACTIVE-DIRECTORY
 
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.
