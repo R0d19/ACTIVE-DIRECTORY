@@ -4,7 +4,7 @@
 
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.
 
-Create a Resource Group and give your resource group a name
+Create a Resource Group,and give your resource group a name
 
 Create the Domain Controller VM (Windows Server 2022) Give your Virtual machine a name (ex: windows-server-2022)
 
@@ -20,7 +20,7 @@ Create Username and Password for your virtual machine
 
 To access internet, select Public inbound ports, for testing choose to allow selected ports, for real live, choose none and create your own as a professional
 
-Select inbound ports, choose HTTP for windows and SSH for Linux, RDP will be automatically selected
+Selectports, choose HTTP for windows and SSH for Linux, RDP will be automatically selected
 
 Click to confirm the Licensing
 
