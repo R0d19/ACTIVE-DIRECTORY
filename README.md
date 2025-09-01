@@ -4,35 +4,31 @@
 
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.
 
-Create a Resource Group,and give your resource group a name
+1 Create the Domain Controller VM (Windows Server 2022) Give your Virtual machine a name (ex: windows-server-2022)
 
-Create the Domain Controller VM (Windows Server 2022) Give your Virtual machine a name (ex: windows-server-2022)
+2 Create a Resource Group,and give your resource group a name
 
-Choose region
+3 Choose region 
 
-Choose Availability Options (Zones)
+4 Choose Image (Software that will run the Virtual Machine) (Windows Server 2022)
 
-Choose Image (Software that will run the Virtual Machine)
+5 Create Username and Password for your virtual machine
 
-To Save cost, select/click Run with Azure Spot discount
+6  RDP (3389) will be automatically selected
 
-Create Username and Password for your virtual machine
+7 Click review and create
 
-To access internet, select Public inbound ports, for testing choose to allow selected ports, for real live, choose none and create your own as a professional
+8 click next and then create
 
-Selectports, choose HTTP for windows and SSH for Linux, RDP will be automatically selected
+9 Review and Create to complete the Deployment
 
-Click to confirm the Licensing
+10 After Deployment, Go to Resources in Azure
 
-click next
+11 Log into the VM using credentials created previously
 
-Review and Create to complete the Deployment
+12 Install Active Directory Domain Services
 
-After Deployment, Go to Resources in Azure
+13 Setup a new forest as mydomain.com 
 
-Log into the VM and install Active Directory Domain Services
-
-Setup a new forest as mydomain.com 
-
-Create a Domain Admin user within the domain
+14 Create a Domain Admin user within the domain
 
