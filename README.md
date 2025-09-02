@@ -19,6 +19,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 ![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/30a60641258ec4e51dc7035dd0d44f309fa8c792/4%20.jpg)
 
 5 Create Username and Password for your virtual machine
+![Image Alt]
 
 6  RDP (3389) will be automatically selected
 
