@@ -26,27 +26,26 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 6  RDP (3389) will be automatically selected
 
-![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/83622143c19ed3f7d43b3dd61d5cf313562e93df/6%20.jpg)
+![Image Alt](https://github.com/R0d19/ACTIVEdesktopremotedmicrosoftnameisapp-DIRECTORY/blob/83622143c19ed3f7d43b3dd61d5cf313562e93df/6%20.jpg)
 
 7 Click review and create
 
 ![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/main/7%20.jpg?raw=true)
 
-8 click next and then create
+8 click next review and Create to complete the Deployment
 
 
 ![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/main/8%20%20.jpg?raw=true)
 
 
-9 Review and Create to complete the Deployment
 
-10 After Deployment, Go to Resources in Azure
+9 Log into the VM using credentials created previously and the VM ip address for windows you can use remoted desktop connection and for mac osthe
 
-11 Log into the VM using credentials created previously
 
-12 Install Active Directory Domain Services
 
-13 Setup a new forest as mydomain.com 
+10 Install Active Directory Domain Services
 
-14 Create a Domain Admin user within the domain
+11 Setup a new forest as mydomain.com 
+
+12 Create a Domain Admin user within the domain
 
