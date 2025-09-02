@@ -5,6 +5,8 @@
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.
 
 1 Create the Domain Controller VM (Windows Server 2022) Give your Virtual machine a name (ex: windows-server-2022)
+![Image Alt][
+](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/dca8edcf97865fa7b2ae0c3f886689dd58ca0a9a/1%20.jpg)
 
 2 Create a Resource Group,and give your resource group a name
 
