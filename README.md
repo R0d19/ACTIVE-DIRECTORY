@@ -13,7 +13,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 3 Choose region 
 ![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/f3b6c9981206be7070495735066d9e775bff977f/3%20.jpg)
+
 4 Choose Image (Software that will run the Virtual Machine) (Windows Server 2022)
+
+![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/30a60641258ec4e51dc7035dd0d44f309fa8c792/4%20.jpg)
 
 5 Create Username and Password for your virtual machine
 
