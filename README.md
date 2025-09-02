@@ -30,7 +30,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 7 Click review and create
 
-
+![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/main/7%20.jpg?raw=true)
 
 8 click next and then create
 
