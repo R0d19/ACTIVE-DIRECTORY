@@ -39,7 +39,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 
-9 Log into the VM using credentials created previously and the VM ip address for windows you can use remoted desktop connection and for mac osthe
+9 Log into the VM using the credentials created previously and the VM ip address for windows you can use remoted desktop connection and for mac os the app name is microsoft remote desktop
 
 
 
