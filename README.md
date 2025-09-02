@@ -30,6 +30,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 7 Click review and create
 
+
+
 8 click next and then create
 
 9 Review and Create to complete the Deployment
