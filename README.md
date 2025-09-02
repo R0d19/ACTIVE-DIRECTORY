@@ -34,18 +34,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 8 click next review and Create to complete the Deployment
 
-
 ![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/main/8%20%20.jpg?raw=true)
-
-
 
 9 Log into the VM using the credentials created previously and the VM ip address for windows you can use remoted desktop connection and for mac os the app name is microsoft remote desktop
 
 ![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/c3cf41baa34ea1bfce8d2871900b39a7d32be497/9.png)
 
-10 Install Active Directory Domain Services
+![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/9008555d7f61c195b7bdcd25c5feb40c352f702d/9.1.png)
 
-11 Setup a new forest as mydomain.com 
+10 Install Active Directory Domain Services,Setup a new forest as mydomain.com,Create a Domain Admin user within the domain
 
-12 Create a Domain Admin user within the domain
+
 
