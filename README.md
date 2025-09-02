@@ -35,6 +35,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 8 click next and then create
 
 
+![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/main/8%20%20.jpg?raw=true)
+
 
 9 Review and Create to complete the Deployment
 
