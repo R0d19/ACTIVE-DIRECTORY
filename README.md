@@ -9,8 +9,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 ![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/dca8edcf97865fa7b2ae0c3f886689dd58ca0a9a/1%20.jpg)
 
 2 Create a Resource Group,and give your resource group a name
+  ![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/05b56143653d46e38533bb36b7db7872a53fd06c/2%20.jpg)
 
 3 Choose region 
+
 
 4 Choose Image (Software that will run the Virtual Machine) (Windows Server 2022)
 
