@@ -41,7 +41,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 9 Log into the VM using the credentials created previously and the VM ip address for windows you can use remoted desktop connection and for mac os the app name is microsoft remote desktop
 
-
+![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/c3cf41baa34ea1bfce8d2871900b39a7d32be497/9.png)
 
 10 Install Active Directory Domain Services
 
