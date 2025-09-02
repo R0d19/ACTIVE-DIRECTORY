@@ -26,6 +26,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 6  RDP (3389) will be automatically selected
 
+![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/83622143c19ed3f7d43b3dd61d5cf313562e93df/6%20.jpg)
+
 7 Click review and create
 
 8 click next and then create
