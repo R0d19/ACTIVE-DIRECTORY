@@ -34,6 +34,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 8 click next and then create
 
+
+
 9 Review and Create to complete the Deployment
 
 10 After Deployment, Go to Resources in Azure
