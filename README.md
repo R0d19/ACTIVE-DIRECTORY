@@ -42,7 +42,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/9008555d7f61c195b7bdcd25c5feb40c352f702d/9.1.png)
 
-10 Install Active Directory Domain Services,Setup a new forest as mydomain.com,Create a Domain Admin user within the domain
+10 Install Active Directory Domain Services,Setup a new forest as mydomain.com
+
+
+https://github.com/user-attachments/assets/ac63ffde-db19-41cc-a3e4-4b678f9d3cd7
 
 
 
