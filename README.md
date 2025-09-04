@@ -40,3 +40,7 @@ https://github.com/user-attachments/assets/ac63ffde-db19-41cc-a3e4-4b678f9d3cd7
 
 12 Create a Domain Admin user within the domain,one name it _EMPLOYEES and the other _ADMINS
 ![Image Alt](https://github.com/R0d19/ACTIVE-DIRECTORY/blob/200bc81a5103c41945ad1e67d7bccdf2514c10b5/11.jpeg)
+
+13 created a new user name jack doe and added to the admins security group
+
+
