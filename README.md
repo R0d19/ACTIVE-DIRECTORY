@@ -36,5 +36,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 https://github.com/user-attachments/assets/ac63ffde-db19-41cc-a3e4-4b678f9d3cd7
 
+11 Restart and then log back into the server as user: mydomain.com\(your own name) using the same password.
+
+12 Create a Domain Admin user within the domain,one name it _EMPLOYEES and the other _ADMINS
 
 
