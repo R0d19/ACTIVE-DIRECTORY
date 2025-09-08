@@ -44,3 +44,7 @@ https://github.com/user-attachments/assets/ac63ffde-db19-41cc-a3e4-4b678f9d3cd7
 13 Log back into the Domain controller recently created using the original login credentials,once in there,click start,open windows administrative tools, inside there click on active directory users and computers, in there right click on mydomain/new/organizationalunit and (name it)as *EMPLOYEES for example,after that right click one more time and create a second unit,it could be *ADMINS or managers ,etc,next step right click on *ADMINS and created a new user,then right click ,on that user and add it into the security group to became and admistrator a new user name jack_doe or your own name;and added to the admins security group,from that moment we will be using mydomain\jack_doe to log into the domain controller and start to deal with everything realted with administrate a domain controller,like permission password ,user issues in general.
 
 
+
+https://github.com/user-attachments/assets/31007cd6-bf30-45d7-a165-0bb30f5714ed
+
+
