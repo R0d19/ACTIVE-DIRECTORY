@@ -43,8 +43,7 @@ https://github.com/user-attachments/assets/ac63ffde-db19-41cc-a3e4-4b678f9d3cd7
 
 13 Log back into the Domain Controller recently created using the original login credentials. Once in, click Start, open Windows Administrative Tools, and inside there, click on Active Directory Users and Computers. In there, right-click on mydomain/new/Organizational Unit and name it EMPLOYEES, for example.
 After that, right-click one more time and create a second unit, such as ADMINS or MANAGERS. Next, right-click on ADMINS and create a new user. Then, right-click on that user and add them to the security group to become an administrator. For example, create a new username like jack_doe (or use your own name) and add it to the ADMINS security group.
-From that moment, you will use mydomain\jack_doe to log into the Domain Controller and start managing everything related to administering a domain controller, such as permissions, passwords, and general user issues.
-
+From that moment, you will use mydomain\jack_doe to log into the Domain Controller and start managing everything related to administering a domain controller, such as creating and modifying user accounts, resetting passwords, unlocking accounts, and assigning users to the correct security and distribution groups;also work with Group Policy Objects to enforce security settings, configure login scripts, and manage workstation settings.
 https://github.com/user-attachments/assets/31007cd6-bf30-45d7-a165-0bb30f5714ed
 
 
